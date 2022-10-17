@@ -4,7 +4,6 @@
   "description": "NodeJS Web App with CRUD functionality",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js",
     "start": "node app.js"
   },
   "author": "Mahesh Pawar",
